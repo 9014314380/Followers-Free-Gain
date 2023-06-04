@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png);
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    color: rgb(255, 8, 0);
+    text-align: center;
+    /* pointer-events: painted; */
+}
+#foot{
+    background-color: red;
+    text-align: center;
+}
+#main{
+    text-align: center;
+}
+p{
+    color: black;
+}
+a{
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px solid black;
+    border-radius: 55px;
+    /* width: 55px; */
+    padding: 7px;
+    text-decoration: none;
+    
+}
+h1{
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a:link{
+    background-color: rgb(228, 170, 228);
+}
+#foot{
+    font-size: 20px;
+}
